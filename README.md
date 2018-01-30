@@ -1,4 +1,3 @@
 # MyJasmine
 First GitHub
-what a nice day
-gttggg
+Sorry, my little jasmine.
